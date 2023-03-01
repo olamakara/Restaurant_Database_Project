@@ -1,1 +1,2 @@
-# Restaurant_Database_Project
+# Restaurant Database Project
+Repository for the project on Database course at AGH.
